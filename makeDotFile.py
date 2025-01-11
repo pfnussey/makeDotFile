@@ -5,6 +5,7 @@ from NodeRed_FSM import NodeRed_FSM
 
 # To compile this program to a single .exe file use the following command (with the version number updated appropriately
 # C:\Users\pfnus\PycharmProjects\PFN Testing>pyinstaller makeDotFile.py --onefile --name makeDotFile_v1.0
+# tag as v1.0
 
 
 VERSION = "Source file: makeDotFile.py Ver 1.0"
